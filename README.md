@@ -3,9 +3,10 @@ A ticket request for 12306 client on cmd
 # Usage
 Under the directory:  
 python tickets.py -h : to see the help doc  
+
 Usage:  
 	tickets [-gdtkz] <from> <to> <date>  
-
+	
 Options:  
 	-h,--help		显示帮助菜单  
 	-g			高铁  
